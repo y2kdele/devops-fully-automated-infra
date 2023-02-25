@@ -1,7 +1,7 @@
 variable "name" {
   type        = string
   description = "name tag value"
-  testing = "nil"
+
 }
 
 variable "tags" {
